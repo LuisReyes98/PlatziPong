@@ -1,6 +1,10 @@
 # =============== #
 # Unity generated #
 # =============== #
+
+# Never ignore Asset meta data
+![Aa]ssets/**/*.meta
+
 [Tt]emp/
 [Oo]bj/
 [Bb]uild
