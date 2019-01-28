@@ -1,6 +1,6 @@
 Android
 PlayerPath?
-C:/Users/luisr.DESKTOP-OMGMF0V/Documents/my_projects/unity/PongPlatzi/AndroidBuilds/PongPlatziApk.apk
+C:/Users/luisr.DESKTOP-OMGMF0V/Documents/my_projects/flutter/flutter_unity_game/unity_component
 SceneListBegin?
 Assets/Scene/MainScene.unity
 Assets/Scene/WinScene.unity
